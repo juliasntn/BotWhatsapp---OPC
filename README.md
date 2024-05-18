@@ -96,10 +96,5 @@ Os logs são salvos no arquivo `BOT.log` e exibidos no console para facilitar a 
 
 Sinta-se à vontade para fazer um fork do projeto, criar uma nova branch e enviar pull requests. 
 
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Contato
-
-Para dúvidas ou sugestões, entre em contato via [seu-email@example.com](mailto:seu-email@example.com).
+linkedin: https://www.linkedin.com/in/julia-santana-040a12180/
